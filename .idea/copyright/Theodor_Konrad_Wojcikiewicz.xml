@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value="Copyright (c) &amp;#36;originalComment.match(&quot;Copyright \(c\) (\d+)&quot;, 1, &quot;-&quot;, &quot;&amp;#36;today.year&quot;)&amp;#36;today.year. &#10;Theodor Konrad Wojcikiewicz&#10;&#10;Date of the start of the Project: 04/11/2022;&#10;Date of the end of the Project: 20/11/2022;&#10;&#10;Time allocated daily for the project: more than ten hours.&#10; Daily schedule: Starting 15 hours, finishing 20,23 hours. Sometimes even going past 4 am.&#10; &#10; Sadly, with that time i was unable to finish some things in the project.&#10; &#10; TODO (some day)&#10;&#10; --&gt; The system don't allow the change of the x and y initial positions  (break the digit logic).&#10; --&gt; The system don't allow the color change of the segments. (break the digit logic, don't receive the values of the counter and the timer)&#10;       The digits are fixed at green when segments are on and light gray when segments are off.&#10; ---&gt; The system don't allow the change in the size of the digits. (break the digits, only work at 200)&#10; &#10; Don't change any value in the main, just run the program. &#10; &#10;" />
+    <option name="myName" value="Theodor Konrad Wojcikiewicz" />
+  </copyright>
+</component>
