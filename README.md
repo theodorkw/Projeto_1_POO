@@ -39,8 +39,8 @@
 
 ## Arquivos Adicionais:
 
-[Modelagem UML](modelagem.png) - Diagrama UML do projeto, com todas as suas dependências, atributos e métodos. 
+[Modelagem UML](figuras/modelagem.png) - Diagrama UML do projeto, com todas as suas dependências, atributos e métodos. 
 
-[Modelagem UML Testes](modelagemtestes.png) - Diagrama UML dos testes do projeto, com todos os atributos e métodos.
+[Modelagem UML Testes](figuras/modelagemtestes.png) - Diagrama UML dos testes do projeto, com todos os atributos e métodos.
 
-[Captura de Tela](capturatelaprojeto.png) - Captura do projeto, mostrando um cronômetro e um contador rodando de forma paralela, em duas telas.
+[Captura de Tela](figuras/capturatelaprojeto.png) - Captura do projeto, mostrando um cronômetro e um contador rodando de forma paralela, em duas telas.
